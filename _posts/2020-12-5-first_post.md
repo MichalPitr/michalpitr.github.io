@@ -11,7 +11,9 @@ writing skills, which, like it or not, are an essential life skill. Moreover, I 
 an undergraduate student.
 
 ## What?
-There is a dichotomy between being a student.
+There is a dichotomy between being an undergraduate student and trying to learn AI/ML. To compensate for the little formal expose to AI/ML concepts I am getting in my degree, I will use this blog to document my learning journey and share interesting concepts.
 
+
+### ...Future...
 I may, *very likely*, end up abandoning this blog, but if not, and *you* happen to stumble upon this, then the blog has exceeded its wildest expectations. So, be proud and thanks. 
 
