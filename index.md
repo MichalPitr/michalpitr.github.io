@@ -1,1 +1,1 @@
-I have a *blog*!
+My space to vent :)
